@@ -1,0 +1,15 @@
+D:\Resources\Practices\WorkingWithDelegates\bin\Debug\net7.0\WorkingWithDelegates.exe
+D:\Resources\Practices\WorkingWithDelegates\bin\Debug\net7.0\WorkingWithDelegates.deps.json
+D:\Resources\Practices\WorkingWithDelegates\bin\Debug\net7.0\WorkingWithDelegates.runtimeconfig.json
+D:\Resources\Practices\WorkingWithDelegates\bin\Debug\net7.0\WorkingWithDelegates.dll
+D:\Resources\Practices\WorkingWithDelegates\bin\Debug\net7.0\WorkingWithDelegates.pdb
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.csproj.AssemblyReference.cache
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.AssemblyInfoInputs.cache
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.AssemblyInfo.cs
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.csproj.CoreCompileInputs.cache
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.dll
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\refint\WorkingWithDelegates.dll
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.pdb
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\WorkingWithDelegates.genruntimeconfig.cache
+D:\Resources\Practices\WorkingWithDelegates\obj\Debug\net7.0\ref\WorkingWithDelegates.dll
